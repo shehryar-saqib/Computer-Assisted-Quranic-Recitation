@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psychic-acronym-385011",
+  "private_key_id": "d771aebf09c59ac42b9e22553981d2154a78930a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjkyUjbWwE+pvt\nNAfGlSuXtCVJg/lQPKzrPiJIO+jq7QNvYbxTGXk/2/uDOfGs1sEwcxuAaW9zGgga\nLVatyCq2dnA6XPQshxPclTlkh3xHTwbDgnBjSKG6RPx9B+6YRd4cxXbmwoX790RT\nZRt90Y0RLS3K6pp8AIOSZ4mUitc+PPB5KoMWIBmF7B5AVW74RseP6eOk25rgCDZZ\n/uvXp8qFQ4teGowIM++I+WP0pfy5PcO1zkop027tskbbs6qgcCXDl1t+8dx24fyC\n2vP5bOmYPmIOKt+EjzJe95ohzxDIJ+HS+YbGIBrFCuhBi4Ubl/tjcnJQxGycxx3J\nmCY4ugYDAgMBAAECggEAI/+/zTXe836tMb2cSUaJicreZx2wT4f5lpDSnXiUpKzv\ncSwVvVN3QanLxHtjBoNGNiLPQ+Xp0lxY0cNARec3EnvzzterbGvFsYwNcyCXgTQ4\nDq9QlfQEWVHWWvTpQj8zHnwCDgjRZwU7UrHYwnNmjEQITWQFIf520a79LXk1CUwQ\nHWy6CAvVgFscLcE2UyzTT8rYQOSzhcdIVU8glpvaP6J5z52O1kUIvc+2AjXXICAs\nGRuzetCPlvYZMenqkFkwc4rVfCQlO2Ho1BUTnJBIdVlLtyO9WzjufyQldW0ZRO+K\n2syK7lktmN1TcdKbjIL0VyKX1auD9WmzHEC1AFvC2QKBgQD4Pt1s3l+HBsjS32p0\nEeOMosVArM6vwtJK89Dj5QIVygm0XS2uyRbZ5mCOMFXz1jgQlK1+1+GQoQEF7MMj\nayYyNeLd67+Gfz8YTlnRBCjzQwA40G+as234fsGdy5twqmwtmhXfheMAX8iZsXyn\nX+Q5c9jOJSO02CNzpxg7VruJDwKBgQDqrvuitMFZU3CF9Jn7jp9SnfibRV4gN+8e\nrGW+Hr1KwivzctQPgKdrJ0Pq7mtQIQurip/tghi57//y4EseITgNqVSN/zdW5IUU\ntCxlK74SfjDsdYczwSVVCYH0GX2djBHKor3URTMN2Z4o81Nbftgo6BhL1Zxhg8Cq\ntDJ/EXxrzQKBgQCSHAYdZsDY62BV5RN133WLt93bVBqOjl9RqDGBgK96faC6nMEf\nh9HATHz2E3LzglkbQTbgWlWz11+PyiuMdCtWECtILNJcahaLysnIYOdtTjkaN2wI\npKUMRibVJhqF9HiZWoCXP+k8tiOOek2BAcqFGi84HdnnPfOXxXhYrJLSdwKBgF+2\n+EhW4li1MDpiFX9EnvRKG3/wXcBUL8FZ3LEaxmc8JELJPXYJKb8JJ6kkjj4DDEht\nZGaw3bbQDJqZIenq8HqZ6jNzuLVGxIQ6K7UjjwTp1LhMAtV32+r/0rGkx9e+re7w\nSu3NP1JRxDC9dOznIfAlIOuk9n/LBYRZtBKhJhatAoGAdssEe6cj3wLW/m9hB5pw\n8gLPnUQNfoHuKdNqxdPGTktACdBM/GLHQNcIGrefxQpztU/iabuYfGb4IrVB7CKD\nqtgT9rt4LmZf0lkEmaLYInFOT0D8RH2i5B3nWbFG6MIF3jdAk2WJ+w6p/1NIiPBl\n2OQ+hCQowGAPL/oTbbF/AP0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "aizaislam@psychic-acronym-385011.iam.gserviceaccount.com",
+  "client_id": "107438660466941151486",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aizaislam%40psychic-acronym-385011.iam.gserviceaccount.com"
+}
